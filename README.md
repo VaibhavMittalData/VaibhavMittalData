@@ -28,25 +28,6 @@ From training CNNs that detect car accidents with **92% accuracy** to deploying 
 I've solved **300+ problems on LeetCode** and lead a **50+ member tech club** as President & Founder of Zenvest. I don't wait for opportunities — I engineer them.
 
 > 💡 *Currently exploring the intersection of LLMs, real-world data pipelines, and production-ready ML.*
-```python
-class VaibhavMittal:
-    def __init__(self):
-        self.role        = "AI / ML Engineer & Data Scientist"
-        self.university  = "Lovely Professional University, Punjab"
-        self.degree      = "B.Tech CSE (2023 – 2027)"
-        self.cgpa        = 7.38
-        self.stack       = ["Python", "PyTorch", "LangChain", "Scikit-learn", "SQL"]
-        self.passions    = ["Deep Learning", "NLP", "LLMs", "Data Analysis"]
-        self.building    = "AI-powered apps with LangChain & Groq"
-        self.grind       = "300+ LeetCode · 100+ GFG · 5⭐ HackerRank"
-        self.superpower  = "Turning raw data into intelligent decisions 🧠"
-
-    def motto(self):
-        return "Don't just learn the tools — build something people remember. 🚀"
-
-me = VaibhavMittal()
-print(me.motto())
-```
 
 ---
 
